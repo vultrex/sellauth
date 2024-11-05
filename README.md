@@ -13,13 +13,13 @@ The `sellauth` package is a small Node.js library for interacting with the SellA
 To install the package, run:
 
 ```bash
-npm install @wedevultrex/sellauth
+npm install sellauth
 ```
 
 ## Usage
 
 ```js
-const SellAuthClient = require("@wedevultrex/sellauth");
+const SellAuthClient = require("sellauth");
 const client = new SellAuthClient({ apiKey: "your-api-key" });
 
 // Get all shops
