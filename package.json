@@ -1,0 +1,30 @@
+{
+  "name": "sellauth",
+  "version": "1.0.0",
+  "description": "An interactive node.js library to communicate with the sellauth.com api",
+  "main": "sellauth.js",
+  "directories": {
+    "test": "test"
+  },
+  "keywords": [
+    "sellauth",
+    "sellauth.com",
+    "api",
+    "mysellauth",
+    "sellauth api",
+    "sellauth.com api"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vultrex/sellauth.git"
+  },
+  "author": "vultrex",
+  "license": "GPL-3.0-only",
+  "bugs": {
+    "url": "https://github.com/vultrex/sellauth/issues"
+  },
+  "homepage": "https://github.com/vultrex/sellauth#readme"
+}
