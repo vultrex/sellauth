@@ -1,6 +1,6 @@
 {
   "name": "sellauth",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An interactive node.js library to communicate with the sellauth.com api",
   "main": "sellauth.js",
   "directories": {
